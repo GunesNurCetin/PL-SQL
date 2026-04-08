@@ -1,6 +1,6 @@
 /*******************************************************************************
   PROJE ADI: PL/SQL Advanced Banking System (Gelişmiş Bankacılık Sistemi)
-  YAZAR: [Senin Adın/GitHub Kullanıcı Adın]
+  YAZAR: [Güneş Nur ÇETİN\@GunesNurCetin]
   TARİH: 2026-04-08
   
   AÇIKLAMA (TR): 
